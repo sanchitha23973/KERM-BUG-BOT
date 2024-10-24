@@ -17,7 +17,7 @@ global.ytname = "YT: Kermhacktools"
 global.socialm = "GitHub: Kgtech-cmt"
 global.location = "India, UP, rampur"
 
-global.ownernumber = '237656520674'  //creator number
+global.ownernumber = '94702722766'  //creator number
 global.ownername = 'KgTech👽' //owner name
 global.botname = 'KERM-BUG-BOT' //name of the bot
 
@@ -30,7 +30,7 @@ global.themeemoji = '🪀'
 global.wm = "Kerm Bug Bot Inc."
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029Vafn6hc7DAX3fzsKtn45'
+global.link = 'https://chat.whatsapp.com/BdxXl16otm93ynPycnvbDp'
 
 //custom prefix
 global.prefa = ['','!','.']
@@ -53,7 +53,7 @@ global.typemenu = 'v1'
 
 //reply messages
 global.mess = {
-    done: '*_Done successfully._*',
+    done: '*_Done successfully✅._*',
     prem: '*_This feature can be used by Kgtech or premium user only_*',
     admin: '*_This feature can be used by Kgtech or admin only_*',
     botAdmin: '*_This feature can only be used when the bot is a group admin_* ',
@@ -61,7 +61,7 @@ global.mess = {
     group: '*_This feature is only for groups_*',
     private: '*_This feature is only for private chats_*',
     wait: '*_In process bro..._*',    
-    error: '*_Error!_*',
+    error: '*_Error❌!_*',
 }
 
 global.thumb = fs.readFileSync('./XeonMedia/thumb2.gif')
